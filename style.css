@@ -1,0 +1,169 @@
+/* * {
+  overflow-y: hidden; 
+ overflow-x: hidden; 
+} */
+ul {
+  margin-right: 200px;
+}
+.nav-link {
+  margin-top: 7px;
+  border-bottom: 2px solid #0d336d;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.xyz .nav-link {
+  margin-top: 7px;
+  border-bottom: 2px solid #0d336d;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+nav {
+  height: 70px;
+  width: 70%;
+  margin-left: 25%;
+}
+/* .apple {
+  height: 30px;
+  width: 40px;
+} */
+#intro {
+  background-image: url("/images/CT_SkillTest_v3\ \(1\)-44.jpg");
+  background-size: cover;
+  /* width: 100vh; */
+  height: 100vh;
+  /* margin-top: -70.59px; */
+}
+
+#history {
+  background-image: url("/images/CT_SkillTest_v3\ \(1\)-35.jpg");
+  background-size: cover;
+  /* background-position: 0%; */
+  height: 100vh;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+h4 {
+  font-size: large;
+  text-align: center;
+  font-weight: 700;
+  color: rgb(48, 77, 82);
+}
+h4 span {
+  color: rgb(39, 81, 140);
+}
+.history-h {
+  color: rgb(66, 95, 95);
+  font-weight: bold;
+}
+.history-head {
+  margin-left: -15px;
+  color: rgb(28, 73, 73);
+}
+.history p {
+  color: rgb(17, 15, 15);
+}
+#bg {
+  background-image: url("/images/CT_SkillTest_v3\ \(1\)-11.jpg");
+  background-size: cover;
+  background-position: 0%;
+  height: 100vh;
+}
+/* @media (min-width: 576px) { ... } */
+/* @media (min-width: 768px) { ... } */
+/* @media (min-width: 992px) {
+  #intro {
+   
+  }
+} */
+.heading {
+  font-weight: 400;
+  line-height: 1;
+  margin-right: 150px;
+  margin-top: -480px;
+}
+.heading span {
+  color: rgb(10, 18, 29);
+}
+/* .heading {
+  /* margin-top: 15%; 
+}  */
+.polo {
+  margin-left: 15%;
+}
+.polo-h {
+  color: rgb(28, 73, 73);
+  font-weight: 500;
+}
+.polo-head {
+  color: rgb(39, 81, 140);
+  font-weight: 500;
+  margin-left: -15px;
+}
+.para {
+  width: 60%;
+  color: rgb(29, 26, 26);
+  /* margin-left: 15px; */
+}
+.teams-nav {
+  width: 100%;
+  margin-left: 0;
+  background-color: rgb(23, 42, 69);
+}
+.teams-li {
+  background-color: gray;
+  height: 70px;
+}
+.links {
+  margin-left: 20.5%;
+}
+footer {
+  height: 70px;
+}
+footer .container {
+  width: 70%;
+}
+
+/* for card */
+.background {
+  height: 150px;
+  padding: 100px;
+}
+
+.card {
+  margin-left: 23%;
+  width: 350px;
+  box-shadow: 0 15px 25px rgba(129, 124, 124, 0.2);
+  height: 300px;
+  border-radius: 5px;
+  backdrop-filter: blur(1px);
+  background-color: rgba(255, 255, 255, 0.2);
+  padding: 10px;
+  text-align: center;
+}
+
+.table-bordered td,
+.table-bordered th,
+.table-bordered tr {
+  border: 0;
+}
+
+#myCarousel {
+  margin-top: 350px;
+  backdrop-filter: blur(1px);
+  background-color: rgb(39, 81, 140, 0.2);
+}
+.carousel-inner .carousel-item {
+  display: flex;
+  justify-content: center;
+}
+#myCarousel button {
+  margin-left: 5px;
+}
+#myCarousel img {
+  width: 200px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 0;
+}
